@@ -31,6 +31,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyaiiro&" alt="kyaiiro" /></p>
 
 # Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
