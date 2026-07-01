@@ -3,7 +3,7 @@
   <h3 align="center">A passionate hobbyist from South Africa that specifically works with backend!</h3>
   <img src="https://discord.c99.nl/widget/theme-2/714363725452410911.png" alt="MrGeo Discord Widget">
   <br>
-  <img src="https://mayu.due.moe/get/@kyaiiro?theme=garukura&padding=2" alt="Profile Views">
+  <img src="https://kyaiiro.ddns.net/get/@kyaiiro?theme=garukura&padding=2" alt="Profile Views">
 </div>
 
 - 🔭 I’m currently working on some misc projects
