@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Kyaiiro <span style="font-size: 0.2em; font-weight: normal;">(pronounced kya-ro)</span></h1>
+  <h1>Hi 👋, I'm Kyaiiro</h1><span style="font-size: 0.2em; font-weight: normal;">(pronounced kya-ro)</span>
   <h3>A passionate hobbyist from South Africa that specifically works with backend!</h3>
   <img src="https://discord.c99.nl/widget/theme-2/714363725452410911.png" alt="MrGeo Discord Widget">
   <br>
