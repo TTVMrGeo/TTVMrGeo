@@ -4,7 +4,12 @@
   <img src="https://discord.c99.nl/widget/theme-2/714363725452410911.png" alt="MrGeo Discord Widget">
   <br>
   <img src="https://kyaiiro.ddns.net/get/@kyaiiro?theme=garukura&padding=3" alt="Profile Views">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyaiiro&" alt="kyaiiro" /></p>  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyaiiro&" alt="kyaiiro" height="195" align="middle" />
+    <a href="https://yuri-posts.vercel.app" target="_blank">
+      <img src="https://files.catbox.moe/n89lmv.png" alt="yuri is great" height="195" align="middle">
+    </a>
+  </p>
 </div>
 <br>
 
