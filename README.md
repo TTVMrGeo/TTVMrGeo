@@ -3,7 +3,7 @@
   <h3>A passionate hobbyist from South Africa that specifically works with backend!</h3>
   <img src="https://discord.c99.nl/widget/theme-2/714363725452410911.png" alt="MrGeo Discord Widget">
   <br>
-  <img src="https://lastfmstats.gothicblue.com/api/cybercard?user=kyaiiro&1month&ff00ea&bg0c0c0c&bdffffff">
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </div>
 <br>
 
@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kyaiiro](https://github.com/kyaiiro)
-
-- 📝 I ~~sometimes~~ never write articles on [https://kyaiiro.blogspot.com/](https://kyaiiro.blogspot.com/)
 
 - 💬 Ask me about **Discord bots, linux or python**
 
